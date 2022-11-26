@@ -24,7 +24,7 @@ One-to-many or many-to-many relationships between classes
 * At least two tests of RBAC for each role
 * =================================================
 ## Project Dependencies
-**Python python-3.7.13**
+**Python python-3.10.8**
 Follow instructions to install the latest version of python for your platform in the [python docs](https://docs.python.org/3/using/unix.html#getting-and-installing-the-latest-version-of-python)
 
 
