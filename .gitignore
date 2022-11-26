@@ -1,0 +1,7 @@
+myenv/
+.vscode/
+__pycache__/
+
+#local db for testing
+capestone.db
+test.db
