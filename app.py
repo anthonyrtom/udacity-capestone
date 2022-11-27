@@ -24,7 +24,7 @@ def create_app(test_config=None):
 
     @app.route("/")
     def home():
-        return "This is working"
+        return "Life is sweat, with all its ups and downs.You may be going through a lot today but it will pass. By Antony"
 
     #This is an endpoint to add an accountant
     #A successful request should contain the name of the
