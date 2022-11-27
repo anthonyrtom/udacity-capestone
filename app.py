@@ -24,7 +24,7 @@ def create_app(test_config=None):
 
     @app.route("/")
     def home():
-        return "Life is sweat, with all its ups and downs.You may be going through a lot today but it will pass. By Antony"
+        return "Life is sweat, with all its ups and downs.You may be going through a lot today but it will pass.Weh I look at my life, it sometimes looks like a lost cause but when I llok deep, I realise I am still alive, I am health and I am able bodied. Isnt that amazing? I thank God for this life. The completion of this Capestone gives me so much joy. By Antony"
 
     #This is an endpoint to add an accountant
     #A successful request should contain the name of the
